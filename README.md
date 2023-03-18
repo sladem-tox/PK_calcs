@@ -6,4 +6,6 @@ The simplest model is of first order elimination following a single IV dose sinc
 [Single IV Dosing](PlasmaTime_SingleIV.ipynb)
 
 After a while thinking deeply about the single IV plasma-time curve you will be ready to think about the more general but more complicated single oral dose plasma-time curve. This is the simplest situation since you can then introduce multiple doses and also consider other factors affecting drug disposition.
-Here is the basic [oral plasma-time curve](SingleOralDose.ipynb)
+Here is the basic oral plasma-time curve.
+
+[oral plasma-time curve](SingleOralDose.ipynb)
