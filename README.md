@@ -16,3 +16,7 @@ Here is the basic oral plasma-time curve.
 
 In these IV infusion cruves you can see the effect of different values of clearance on the steady state concentration of a drug. So drugs that have different clearance values that are dosed at the same mg/hour dose rate will settle at different steady state concentrations.
 
+
+[Zero Order Elimination with First Order Terminal Elimination] (Zero_OrderElimination_then_1st.ipynb)
+
+This last curve shows what happens when the elimination pathway is saturated initially and then, when to plasma concentration sinks low enough, the elimination returns to first order and starts to slow down. Notice that the curve is linear and then exponential at the end. So the elimination rate is constant at the begining, irrespective of plasma concentration. Then, in the last part of the curve, the elimination rate is proportional to plasma concentration.
