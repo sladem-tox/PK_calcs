@@ -25,3 +25,8 @@ This last curve shows what happens when the elimination pathway is saturated ini
 
 
 [Zero Order Elimination with First Order Terminal Elimination](Zero_OrderElimination_then_1st.ipynb)
+
+## Multiple Oral Dosing
+Finally we consider multiple oral dosing. This is a much more difficult thing to work with because there are several variables to consider when plotting the resultant plasma-time curve.
+
+[Multiple Oral Dosing](MultipleOralDose.ipynb)
