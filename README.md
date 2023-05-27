@@ -7,7 +7,7 @@ The simplest model is of first order elimination following a single IV dose sinc
 
 ![Single IV Dose Curve](docs/assets/img/SingleIV_curve.png)
 
-[Single IV Dosing](PlasmaTime_SingleIV.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sladem-tox/PK_calcs/blob/main/PlasmaTime_SingleIV.ipynb)
 
 
 ## Oral Dosing Plasma-time Curve
