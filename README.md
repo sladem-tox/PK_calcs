@@ -15,6 +15,8 @@ Click the "Open in Colab" button below to open an easy to use Python-based imple
 ## Oral Dosing Plasma-time Curve
 After a while thinking deeply about the single IV plasma-time curve you will be ready to think about the more general but more complicated single oral dose plasma-time curve. This is the simplest situation since you can then introduce multiple doses and also consider other factors affecting drug disposition.
 
+![Single Oral Dose Curve](doce/assets/SingleOralDose.png)
+
 Click the "Open in Colab" button below to open an easy to use Python-based implementation of the Single Oral dose plasma-time curve formula. Here you will be able to change the parameters of the Single Oral dose plasma-time curve and see how they change the curve behavior.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([SingleOralDose.ipynb](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb))
