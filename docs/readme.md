@@ -1,5 +1,6 @@
 # PK_calcs
 PK calculations in Python
+by Dr Slade Matthews, Sydney Pharmacy School, The University of Sydney
 
 
 ## Single IV Dosing
