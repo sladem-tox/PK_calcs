@@ -34,7 +34,7 @@ This last curve shows what happens when the elimination pathway is saturated ini
 
 ![Zero Order Elimination with First Order Terminal Elimination](docs/assets/img/NonLinearKinetics.png)
 
-[Zero Order Elimination with First Order Terminal Elimination](Zero_OrderElimination_then_1st.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Zero Order Elimination with First Order Terminal Elimination](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Zero_OrderElimination_then_1st.ipynb))
 
 ## Multiple Oral Dosing
 Finally we consider multiple oral dosing. This is a much more difficult thing to work with because there are several variables to consider when plotting the resultant plasma-time curve.
@@ -42,3 +42,4 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 ![Multiple Oral Dosing](docs/assets/img/MultipleOralDose.png)
 
 [Multiple Oral Dosing](MultipleOralDose.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([MultipleOralDose.ipynb]([https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb))
