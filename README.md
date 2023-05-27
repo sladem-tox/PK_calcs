@@ -7,6 +7,8 @@ The simplest model is of first order elimination following a single IV dose sinc
 
 ![Single IV Dose Curve](docs/assets/img/SingleIV_curve.png)
 
+Click the "Open in Colab" button below to open an easy to use Python-based implementation of the single IV dose plasma-time curve formula. Here you will be able to change the parameters of the single IV plasma-time curve and see how they change the curve behavior.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/PlasmaTime_SingleIV.ipynb)
 
 
