@@ -41,4 +41,4 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 
 ![Multiple Oral Dosing](docs/assets/img/MultipleOralDose.png)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
