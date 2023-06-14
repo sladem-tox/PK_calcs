@@ -8,7 +8,7 @@ The simplest model is of first order elimination following a single IV dose sinc
 
 ![Single IV Dose Curve](docs/assets/img/SingleIV_curve.png)
 
-Click the "Open in Colab" button below to open an easy to use Python-based implementation of the single IV dose plasma-time curve formula. Here you will be able to change the parameters of the single IV plasma-time curve and see how they change the curve behavior.
+**Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the single IV dose plasma-time curve formula. Here you will be able to change the parameters of the single IV plasma-time curve and see how they change the curve behavior.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/PlasmaTime_SingleIV.ipynb)
 ----
@@ -18,7 +18,7 @@ After a while thinking deeply about the single IV plasma-time curve you will be 
 
 ![Single Oral Dose Curve](docs/assets/img/SingleOralDose.png)
 
-Click the "Open in Colab" button below to open an easy to use Python-based implementation of the Single Oral dose plasma-time curve formula. Here you will be able to change the parameters of the Single Oral dose plasma-time curve and see how they change the curve behavior.
+**Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the Single Oral dose plasma-time curve formula. Here you will be able to change the parameters of the Single Oral dose plasma-time curve and see how they change the curve behavior.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb)
 ----
@@ -28,7 +28,7 @@ In these IV infusion cruves you can see the effect of different values of cleara
 
 ![Intravenous Infusion Curves](docs/assets/img/IV_infusion.png)
 
-Click the "Open in Colab" button below to open an easy to use Python-based implementation of intravenous infusion curves. In the image above all the dose rates in mg/h are the same and only the clearance values are changed illustrating the dependence of steady-state concentration on clearance.
+**Click the "Open in Colab"** button below to open an easy to use Python-based implementation of intravenous infusion curves. In the image above all the dose rates in mg/h are the same and only the clearance values are changed illustrating the dependence of steady-state concentration on clearance.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Infusion_curves.ipynb)
 ----
@@ -38,7 +38,7 @@ This last curve shows what happens when the elimination pathway is saturated ini
 
 ![Zero Order Elimination with First Order Terminal Elimination](docs/assets/img/NonLinearKinetics.png)
 
-Click the "Open in Colab" button below to open an easy to use Python-based illustration of zero order elimination which changes to first order elimination when the concentration drops to below a threshold value.
+**Click the "Open in Colab"** button below to open an easy to use Python-based illustration of zero order elimination which changes to first order elimination when the concentration drops to below a threshold value.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Zero_OrderElimination_then_1st.ipynb)
 ----
@@ -48,6 +48,6 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 
 ![Multiple Oral Dosing](docs/assets/img/MultipleOralDose.png)
 
-Click the "Open in Colab" button below to open an easy to use Python-based implementation of the multiple oral dosing curve. Here you can look at the effects of changes in dose and dose interval to the plasma curve. You can also see how long it takes for the plasma level to reach steady-state where the tops and bottoms of the plasma-time curves all land at the same y-axis value.
+**Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the multiple oral dosing curve. Here you can look at the effects of changes in dose and dose interval to the plasma curve. You can also see how long it takes for the plasma level to reach steady-state where the tops and bottoms of the plasma-time curves all land at the same y-axis value.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
