@@ -40,7 +40,7 @@ This last curve shows what happens when the elimination pathway is saturated ini
 
 **Click the "Open in Colab"** button below to open an easy to use Python-based illustration of zero order elimination which changes to first order elimination when the concentration drops to below a threshold value.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Zero_OrderElimination_then_1st.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Zero_OrderElimination.ipynb)
 ----
 
 ## Multiple Oral Dosing
