@@ -1,5 +1,5 @@
 # PK_calcs
-Pharmacokinetic Calculations in Python
+[Pharmacokinetic Calculations in Python](https://sladem-tox.github.io/PK_calcs/)
     *by Dr Slade Matthews, 2023, The University of Sydney*
 
 
