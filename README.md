@@ -53,7 +53,7 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
 
 <p>
-<img src="qrcode_sladem-tox.github.io.png" alt="QRcode">
+<img src="qrcode_sladem-tox.github.io.png" alt="QRcode" width="600" height="600">
 </p>
 
 
