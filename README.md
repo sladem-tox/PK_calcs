@@ -51,3 +51,9 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 **Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the multiple oral dosing curve. Here you can look at the effects of changes in dose and dose interval to the plasma curve. You can also see how long it takes for the plasma level to reach steady-state where the tops and bottoms of the plasma-time curves all land at the same y-axis value.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
+
+<p>
+<img src="qrcode_sladem-tox.github.io.png" alt="QRcode">
+</p>
+
+
