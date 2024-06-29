@@ -60,7 +60,7 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 </a>
 
 <p>
-<li></li>
+<hr>
 <img src="qrcode_sladem-tox.github.io.png" alt="QRcode" width="600" height="600">
 </p>
 
