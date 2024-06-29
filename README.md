@@ -20,7 +20,9 @@ After a while thinking deeply about the single IV plasma-time curve you will be 
 
 **Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the Single Oral dose plasma-time curve formula. Here you will be able to change the parameters of the Single Oral dose plasma-time curve and see how they change the curve behavior.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb)
+<a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
+</a>
 ----
 
 ## Intravenous Infusion and Effect of Clearance
