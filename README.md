@@ -33,8 +33,9 @@ In these IV infusion cruves you can see the effect of different values of cleara
 
 **Click the "Open in Colab"** button below to open an easy to use Python-based implementation of intravenous infusion curves. In the image above all the dose rates in mg/h are the same and only the clearance values are changed illustrating the dependence of steady-state concentration on clearance.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Infusion_curves.ipynb)
-----
+<a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/Infusion_curves.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
+</a>
 
 ## Non-linear Pharmacokinetics - Zero Order Elimination with Pathway Saturation
 This curve shows what happens when the elimination pathway is saturated initially and then, when to plasma concentration sinks low enough, the elimination returns to first order and starts to slow down. Notice that the curve is linear and then exponential at the end. So the elimination rate is constant at the begining, irrespective of plasma concentration. Then, in the last part of the curve, the elimination rate is proportional to plasma concentration. For simplicity we start with the drug at some concentration at time=0 but if we were considering an oral dose the situation would be far more complicated!
@@ -43,8 +44,9 @@ This curve shows what happens when the elimination pathway is saturated initiall
 
 **Click the "Open in Colab"** button below to open an easy to use Python-based illustration of zero order elimination which changes to first order elimination when the concentration drops to below a threshold value.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/ZeroOrderElimination.ipynb)
-----
+<a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/ZeroOrderElimination.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
+</a>
 
 ## Multiple Oral Dosing
 Finally we consider multiple oral dosing. This is a much more difficult thing to work with because there are several variables to consider when plotting the resultant plasma-time curve. In the example below the equation for multiple oral dosing is used taking into account the regular dosing interval and deriving from that which dose number in the series we are up to at any given time-point.
@@ -53,7 +55,9 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
 
 **Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the multiple oral dosing curve. Here you can look at the effects of changes in dose and dose interval to the plasma curve. You can also see how long it takes for the plasma level to reach steady-state where the tops and bottoms of the plasma-time curves all land at the same y-axis value.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
+<a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
+</a>
 
 <p>
 <img src="qrcode_sladem-tox.github.io.png" alt="QRcode" width="600" height="600">
