@@ -23,7 +23,7 @@ After a while thinking deeply about the single IV plasma-time curve you will be 
 <a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
 </a>
-----
+
 
 ## Intravenous Infusion and Effect of Clearance
 In these IV infusion cruves you can see the effect of different values of clearance on the steady state concentration of a drug. So drugs that have different clearance values that are dosed at the same mg/hour dose rate will settle at different steady state concentrations.
