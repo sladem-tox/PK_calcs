@@ -59,6 +59,17 @@ Finally we consider multiple oral dosing. This is a much more difficult thing to
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
 </a>
 
+## Two Compartment Pharmacokinetic Model
+Unlike one-compartment models, which assume the drug distributes evenly throughout the body, two-compartment models account for the fact that drugs often distribute unevenly. They separate the body into a central compartment (e.g., blood and well-perfused organs) and a peripheral compartment (e.g., muscle, fat). For the two compartment model there are two differential equations that describe the disposition of the drug. The first describes the change in concentration in the central compartment and the second equation describes the change in concentration in the peripheral compartment.
+
+![Multiple Oral Dosing](docs/assets/img/MultipleOralDose.png)
+
+**Click the "Open in Colab"** button below to open an easy to use Python-based implementation of the two-compartment model. Here you can look see how the two differential equations can be combined to describe the change in plasma concentration over time taking both forces into account.
+
+<a href="https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/2-CompartmentModel.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 200px; height: auto;">
+</a>
+
 <p>
 <hr>
 <img src="qrcode_sladem-tox.github.io.png" alt="QRcode" width="600" height="600">
